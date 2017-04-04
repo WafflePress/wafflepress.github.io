@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>RD &#8211; The Waffle Press</title>
+	<atom:link href="/category/rd/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Gold, crisp, batter news</description>
+	<lastBuildDate>Mon, 11 Jul 2016 06:00:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.3</generator>
+<site xmlns="com-wordpress:feed-additions:1">100144578</site>	<item>
+		<title>BREAKING: RD Committee Makes Surprise Announcement</title>
+		<link>/2015/08/03/breaking-rd-committee-makes-surprise-announcement/</link>
+		<comments>/2015/08/03/breaking-rd-committee-makes-surprise-announcement/#respond</comments>
+		<pubDate>Sun, 02 Aug 2015 22:45:02 +0000</pubDate>
+		<dc:creator><![CDATA[Sir Waffle]]></dc:creator>
+				<category><![CDATA[Guest]]></category>
+		<category><![CDATA[RD]]></category>
+
+		<guid isPermaLink="false">http://waffle.ketupat.me/?p=304</guid>
+		<description><![CDATA[<img width="780" height="779" src="https://i2.wp.com/waffle.press/wp-content/uploads/2015/08/photo355228134098970538.jpg?fit=780%2C779&amp;ssl=1" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" srcset="https://i2.wp.com/waffle.press/wp-content/uploads/2015/08/photo355228134098970538.jpg?w=960 960w, https://i2.wp.com/waffle.press/wp-content/uploads/2015/08/photo355228134098970538.jpg?resize=150%2C150 150w, https://i2.wp.com/waffle.press/wp-content/uploads/2015/08/photo355228134098970538.jpg?resize=300%2C300 300w, https://i2.wp.com/waffle.press/wp-content/uploads/2015/08/photo355228134098970538.jpg?resize=60%2C60 60w, https://i2.wp.com/waffle.press/wp-content/uploads/2015/08/photo355228134098970538.jpg?resize=220%2C220 220w" sizes="(max-width: 780px) 100vw, 780px" data-attachment-id="308" data-permalink="/2015/08/03/breaking-rd-committee-makes-surprise-announcement/photo355228134098970538/" data-orig-file="https://i2.wp.com/waffle.press/wp-content/uploads/2015/08/photo355228134098970538.jpg?fit=960%2C959&amp;ssl=1" data-orig-size="960,959" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Peaks of Excellence" data-image-description="" data-medium-file="https://i2.wp.com/waffle.press/wp-content/uploads/2015/08/photo355228134098970538.jpg?fit=300%2C300&amp;ssl=1" data-large-file="https://i2.wp.com/waffle.press/wp-content/uploads/2015/08/photo355228134098970538.jpg?fit=780%2C779&amp;ssl=1" /><p>The following piece is a guest post submitted by Winston, a freelance reporter: With the deadline for applications for RD Merit and Distinction Awards having lapsed, Waffle Press is in a position to confirm several new developments. We understand that overwhelmed SAC staff, struggling under the weight of stacks of hastily prepared portfolios, took the [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/2015/08/03/breaking-rd-committee-makes-surprise-announcement/">BREAKING: RD Committee Makes Surprise Announcement</a> appeared first on <a rel="nofollow" href="/">The Waffle Press</a>.</p>
+]]></description>
+		<wfw:commentRss>/2015/08/03/breaking-rd-committee-makes-surprise-announcement/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">304</post-id>	</item>
+	</channel>
+</rss>

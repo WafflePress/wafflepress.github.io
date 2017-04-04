@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Food &#8211; The Waffle Press</title>
+	<atom:link href="/category/food/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Gold, crisp, batter news</description>
+	<lastBuildDate>Mon, 11 Jul 2016 06:00:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.3</generator>
+<site xmlns="com-wordpress:feed-additions:1">100144578</site>	<item>
+		<title>Canteen Regulations Reaffirmed By Scientific Evidence</title>
+		<link>/2015/08/13/canteen-regulations-reaffirmed-by-scientific-evidence/</link>
+		<comments>/2015/08/13/canteen-regulations-reaffirmed-by-scientific-evidence/#respond</comments>
+		<pubDate>Thu, 13 Aug 2015 10:51:46 +0000</pubDate>
+		<dc:creator><![CDATA[Sir Waffle]]></dc:creator>
+				<category><![CDATA[Food]]></category>
+		<category><![CDATA[Science]]></category>
+
+		<guid isPermaLink="false">http://waffle.ketupat.me/?p=332</guid>
+		<description><![CDATA[<img width="780" height="585" src="https://i1.wp.com/waffle.press/wp-content/uploads/2015/08/hamburger-207295_1280.jpg?fit=780%2C585&amp;ssl=1" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" srcset="https://i1.wp.com/waffle.press/wp-content/uploads/2015/08/hamburger-207295_1280.jpg?w=1280 1280w, https://i1.wp.com/waffle.press/wp-content/uploads/2015/08/hamburger-207295_1280.jpg?resize=300%2C225 300w, https://i1.wp.com/waffle.press/wp-content/uploads/2015/08/hamburger-207295_1280.jpg?resize=1024%2C768 1024w" sizes="(max-width: 780px) 100vw, 780px" data-attachment-id="333" data-permalink="/2015/08/13/canteen-regulations-reaffirmed-by-scientific-evidence/hamburger-207295_1280/" data-orig-file="https://i1.wp.com/waffle.press/wp-content/uploads/2015/08/hamburger-207295_1280.jpg?fit=1280%2C960&amp;ssl=1" data-orig-size="1280,960" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Really healthy food" data-image-description="" data-medium-file="https://i1.wp.com/waffle.press/wp-content/uploads/2015/08/hamburger-207295_1280.jpg?fit=300%2C225&amp;ssl=1" data-large-file="https://i1.wp.com/waffle.press/wp-content/uploads/2015/08/hamburger-207295_1280.jpg?fit=780%2C585&amp;ssl=1" /><p>In the true spirit of the free market, the school imposes few, if any, restrictions on the chow served up by canteen vendors. This policy has recently been validated by scientific evidence unearthed below a pile of papers in the Millikan Institute. The few regulations placed are of course in the best interests of students. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/2015/08/13/canteen-regulations-reaffirmed-by-scientific-evidence/">Canteen Regulations Reaffirmed By Scientific Evidence</a> appeared first on <a rel="nofollow" href="/">The Waffle Press</a>.</p>
+]]></description>
+		<wfw:commentRss>/2015/08/13/canteen-regulations-reaffirmed-by-scientific-evidence/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">332</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=https://waffle.press/wp-content/uploads/2015/08/Matterhorn_from_Domh%C3%BCtte_-_2-60x60.jpg">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "https://waffle.press/wp-content/uploads/2015/08/Matterhorn_from_Domh%C3%BCtte_-_2-60x60.jpg";
+		</script>
+
+		<p>You are being redirected to <a href="https://waffle.press/wp-content/uploads/2015/08/Matterhorn_from_Domh%C3%BCtte_-_2-60x60.jpg">https://waffle.press/wp-content/uploads/2015/08/Matterhorn_from_Domh%C3%BCtte_-_2-60x60.jpg</a></p>
+	</body>
+</html>

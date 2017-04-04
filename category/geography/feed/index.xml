@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Geography &#8211; The Waffle Press</title>
+	<atom:link href="/category/geography/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Gold, crisp, batter news</description>
+	<lastBuildDate>Mon, 11 Jul 2016 06:00:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.3</generator>
+<site xmlns="com-wordpress:feed-additions:1">100144578</site>	<item>
+		<title>Researchers Astounded By School Geography</title>
+		<link>/2015/08/22/researchers-astounded-by-school-geography/</link>
+		<comments>/2015/08/22/researchers-astounded-by-school-geography/#respond</comments>
+		<pubDate>Sat, 22 Aug 2015 04:20:40 +0000</pubDate>
+		<dc:creator><![CDATA[Sir Waffle]]></dc:creator>
+				<category><![CDATA[Geography]]></category>
+
+		<guid isPermaLink="false">http://waffle.ketupat.me/?p=355</guid>
+		<description><![CDATA[<img width="780" height="519" src="https://i1.wp.com/waffle.press/wp-content/uploads/2015/08/09_rafflesia.jpg?fit=780%2C519&amp;ssl=1" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" srcset="https://i1.wp.com/waffle.press/wp-content/uploads/2015/08/09_rafflesia.jpg?w=3345 3345w, https://i1.wp.com/waffle.press/wp-content/uploads/2015/08/09_rafflesia.jpg?resize=300%2C200 300w, https://i1.wp.com/waffle.press/wp-content/uploads/2015/08/09_rafflesia.jpg?resize=1024%2C681 1024w, https://i1.wp.com/waffle.press/wp-content/uploads/2015/08/09_rafflesia.jpg?w=1560 1560w, https://i1.wp.com/waffle.press/wp-content/uploads/2015/08/09_rafflesia.jpg?w=2340 2340w" sizes="(max-width: 780px) 100vw, 780px" data-attachment-id="357" data-permalink="/2015/08/22/researchers-astounded-by-school-geography/09_rafflesia/" data-orig-file="https://i1.wp.com/waffle.press/wp-content/uploads/2015/08/09_rafflesia.jpg?fit=3345%2C2226&amp;ssl=1" data-orig-size="3345,2226" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Rafflesia" data-image-description="" data-medium-file="https://i1.wp.com/waffle.press/wp-content/uploads/2015/08/09_rafflesia.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i1.wp.com/waffle.press/wp-content/uploads/2015/08/09_rafflesia.jpg?fit=780%2C519&amp;ssl=1" /><p>A team of researchers from the NUS Geological Survey and the Millikan Institute For Applied Sciences recently conducted an in depth study of the geographical characteristics of the school. Their work was published last week in the journal Beagle Eye. Learning from school founder Sir Thomas Bingley, the team assessed the suitability of the school [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/2015/08/22/researchers-astounded-by-school-geography/">Researchers Astounded By School Geography</a> appeared first on <a rel="nofollow" href="/">The Waffle Press</a>.</p>
+]]></description>
+		<wfw:commentRss>/2015/08/22/researchers-astounded-by-school-geography/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">355</post-id>	</item>
+	</channel>
+</rss>
